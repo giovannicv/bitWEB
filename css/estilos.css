@@ -1,0 +1,93 @@
+
+body {
+	background: rgb(255, 255, 255);
+	color: rgb(255, 0, 0);
+	
+}
+
+header {
+	background: rgb(255, 1, 1);
+	align-content: center;
+	/*width: 1366px;*/
+
+	
+}
+
+section#logo{
+	background: black;
+	align-content: center;
+	width: 600px;
+}
+
+section#banner{
+	background: #424242;
+	color: rgb(80, 80, 80);
+	width: 800px;
+	height: 200px;
+}
+
+section#nombre{
+	background: black;
+	color: #ffffff;
+	padding: 20px;
+	text-align: center;
+
+}
+.col#barra{
+	background: black;
+	color: black;
+}
+
+h1#titulo1{
+	/* font-family: Copperplate Gothic Light; */
+	text-align: center;
+	color: red;
+    /* font-family: 'Lora', serif; */
+    font-family: 'Source Sans Pro', sans-serif;
+
+
+}
+p#titulo2{
+	/* font-family: BernhardMod BT; */
+	font-family: 'Lora', serif;
+}
+
+.contenedor-main {
+	margin-bottom: 20px;
+	font-family: 'Lora', serif;
+	
+	
+}
+
+main {
+	background:black;
+	color: #ffffff;
+	padding: 20px;
+	
+}
+
+aside {
+	background: #dee5e8;
+	padding: 60px 0;
+	color: #0d47a1;
+}
+
+.widgets {
+	background: #f2f2f2;
+	color: #424242;
+	margin-bottom: 20px;
+}
+
+.widgets > div {
+	background: #2196f3;
+	color: #fff;
+	padding: 20px;
+}
+
+footer {
+	padding: 20px;
+	background: black;
+	color: white;
+	text-align: center;
+	font-family: Brush Script MT;
+}
